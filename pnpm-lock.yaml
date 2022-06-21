@@ -1,0 +1,14 @@
+lockfileVersion: 5.4
+
+specifiers:
+  left-pad: ^1.0.0
+
+dependencies:
+  left-pad: 1.0.2
+
+packages:
+
+  /left-pad/1.0.2:
+    resolution: {integrity: sha512-i+siCE/qH/g/aFBfv9alTWzGetfoI8pw4mT4L4DA1kcCZwxnLzCpW5W96BmcNZvSsEStD0mn3NInNjp+CXb1lw==}
+    deprecated: use String.prototype.padStart()
+    dev: false
